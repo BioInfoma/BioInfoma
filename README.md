@@ -25,7 +25,7 @@ I'm a bioinformatician passionate about leveraging computational tools to solve 
 
 
 ## ⚡ Fun fact: 
-I once assembled a bacterial genome using only a Raspberry Pi!
+I developed a pipeline to predict cancer drug combinations using only gene expression data!
 
 ---
 
