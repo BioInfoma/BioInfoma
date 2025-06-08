@@ -1,4 +1,4 @@
-👋 Hi, I'm @BioInfoma
+👋 Hi, I'm Kolawole Temitope
 
 I'm a bioinformatician passionate about leveraging computational tools to solve biological problems.
 
